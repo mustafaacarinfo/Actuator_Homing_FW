@@ -1,4 +1,0 @@
-../Components/Actuator/Src/actuator.c:4:6:Actuator_InitObj	1
-../Components/Actuator/Src/actuator.c:16:6:Actuator_Start	2
-../Components/Actuator/Src/actuator.c:24:6:Actuator_Stop	1
-../Components/Actuator/Src/actuator.c:32:6:Actuator_Process	12
